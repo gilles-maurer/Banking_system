@@ -1,0 +1,35 @@
+Banking System
+
+by Gilles Maurer 
+
+C project of a banking system for the course of Programming and Data Structure in Politechnika Lodzka (Poland)
+
+Developed on Linux 
+
+------------------------------------------------------------------------
+
+simulation d'un logiciel de banque, les actions suivantes sont disponibles : 
+
+  - Créer un nouveau compte 
+  - Lister les comptes existants 
+  - Chercher un compte
+  - Faire un virement
+  - Faire un retrait
+  - Faire un dépot 
+  
+Toutes les saisies sont sécurisées, les données sont stoquées dans un fichier binaire, une validation est demandée avant chaque action
+
+
+simulates a bank software, the following actions are available: 
+
+  - Create a new account 
+  - List existing accounts 
+  - Search for an account
+  - Make a transfer
+  - Make a withdrawal
+  - Make a deposit
+
+All inputs are secured, the data is stored in a binary file, a validation is requested before each action
+
+
+------------------------------------------------------------------------
